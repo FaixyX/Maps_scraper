@@ -1,0 +1,2753 @@
+[
+    {
+        "name": "Preet Oil Corporation",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3060 W 16th St, Indianapolis, IN 46222, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-686-9757",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards"
+            ]
+        }
+    },
+    {
+        "name": "McClure Oil",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n5301 Rockville Rd, Indianapolis, IN 46224, United States",
+        "website": "https://www.mcclureoilcorp.com/",
+        "phone": "\n+1 317-248-1936",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "4.6",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2719 E 38th St, Indianapolis, IN 46218, United States",
+        "website": "https://find.shell.com/us/fuel/12981285-2719-e-38th-st/en_US",
+        "phone": "\n+1 317-549-3451",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "3.3",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3801 E New York St, Indianapolis, IN 46201, United States",
+        "website": "https://find.shell.com/us/fuel/10051919-3801-e-new-york-st/en_US",
+        "phone": "\n+1 317-351-0361",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "3.4",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2434 N Keystone Ave, Indianapolis, IN 46218, United States",
+        "website": "https://find.shell.com/us/fuel/10047737-2434-n-keystone-ave/en_US",
+        "phone": "\n+1 317-925-7003",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4887 Kentucky Ave, Indianapolis, IN 46221, United States",
+        "website": "https://find.shell.com/us/fuel/10009062-4887-kentucky-ave/en_US",
+        "phone": "\n+1 317-856-7654",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has full service gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3755 E Raymond St, Indianapolis, IN 46203, United States",
+        "website": "https://find.shell.com/us/fuel/12619832-3755-e-raymond-st/en_US",
+        "phone": "\n+1 317-781-8900",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "3.2",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n8703 Col. H. Weir Cook Memorial Dr, Indianapolis, IN 46241, United States",
+        "website": "https://find.shell.com/us/fuel/10089163-8703-col-h-weir-cook-memorial-dr/en_US",
+        "phone": "\n+1 317-672-7550",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has oil change",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ],
+            "Parking": [
+                "Free parking lot"
+            ]
+        }
+    },
+    {
+        "name": "S C Oil",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2160 S Meridian St, Indianapolis, IN 46225, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-782-0988",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards"
+            ]
+        }
+    },
+    {
+        "name": "legend oil",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n5680 W 56th St, Indianapolis, IN 46254, United States",
+        "website": "https://find.shell.com/us/fuel/13116438-5820-w-56th-street/en_US",
+        "phone": "\n+1 888-467-4355",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Phillips 66",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3139 Kentucky Ave, Indianapolis, IN 46221, United States",
+        "website": "https://www.phillips66gas.com/station/p66-1077-j-n-r-petroleum-0000904684/?utm_source=G&utm_medium=local&utm_campaign=google-local&utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-481-6640",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Noble Romans - McClure Oil",
+        "rating": "3.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4945 W 71st St, Indianapolis, IN 46268, United States",
+        "website": "http://mcclureoilcorp.com/",
+        "phone": "\n+1 317-297-3643",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Mr. Fuel Travel Center",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Truck stop",
+        "address": "\n4610 S Harding St, Indianapolis, IN 46217, United States",
+        "website": "https://pilotflyingj.com/stores/",
+        "phone": "\n+1 317-780-6631",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Serves food"
+            ],
+            "Amenities": [
+                "Has Wi-Fi"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts checks",
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "bp",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4590 Shadeland Ave, Indianapolis, IN 46226, United States",
+        "website": "https://map.bp.com/en-US/US/gas-station/indianapolis/bp/51562210665904622600100000000000",
+        "phone": "\n+1 317-549-8814",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Sinclair Gas Station",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4201 N Franklin Rd, Indianapolis, IN 46226, United States",
+        "website": "https://www.sinclairoil.com/?utm_source=google&utm_medium=yext",
+        "phone": "\n+1 317-890-1446",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Marathon Petroleum Corporation",
+        "rating": "5.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n10722 E County Rd 300 N, Indianapolis, IN 46234, United States",
+        "website": "https://www.marathonpetroleum.com/",
+        "phone": "\n+1 317-291-4590",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards"
+            ]
+        }
+    },
+    {
+        "name": "RaceTrac",
+        "rating": "3.5",
+        "total_reviews": "4.0",
+        "category": "Truck stop",
+        "address": "\n7612 Pendleton Pike, Indianapolis, IN 46226, United States",
+        "website": "https://www.racetrac.com/Locations/Detail/482?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "phone": "\n+1 404-829-6362",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "Onsite services available",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Serves food"
+            ],
+            "Amenities": [
+                "Has Wi-Fi"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Marathon Gas Station",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n324 W Morris St, Indianapolis, IN 46225, United States",
+        "website": "https://www.marathonbrand.com/Stations/Station_Locator/",
+        "phone": "\n+1 866-462-7284",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Mobil",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2944 Shelby St, Indianapolis, IN 46203, United States",
+        "website": "https://www.exxon.com/en/find-station/mobil-indianapolis-in-mobil-200321850?utm_medium=referral&utm_source=yxt-google&utm_campaign=us_fue_ret_xom_yxt",
+        "phone": "\n+1 317-820-5605",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Flying J Travel Center",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Truck stop",
+        "address": "\n1720 W Thompson Rd, Indianapolis, IN 46217, United States",
+        "website": "https://locations.pilotflyingj.com/us/in/indianapolis/1720-w-thompson-rd",
+        "phone": "\n+1 317-783-5543",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "Onsite services available",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Serves food"
+            ],
+            "Amenities": [
+                "Has Wi-Fi"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts checks",
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Thorntons",
+        "rating": "3.4",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n7425 E Washington St Ste 1, Indianapolis, IN 46219, United States",
+        "website": "https://www.thorntonsinc.com/",
+        "phone": "\n+1 317-359-2987",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Sells prepared foods"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Marathon Petroleum Corporation",
+        "rating": "3.5",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n9322 W 30th St, Indianapolis, IN 46234, United States",
+        "website": "https://www.marathonpetroleum.com/",
+        "phone": "\n+1 317-216-1279",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards"
+            ]
+        }
+    },
+    {
+        "name": "Speedway",
+        "rating": "3.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n75 N Lynhurst Dr, Indianapolis, IN 46224, United States",
+        "website": "https://www.speedway.com/locations/in/indianapolis/75-north-lynhurst-drive-43786?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-247-8554",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Mobil",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3609 E 38th St, Indianapolis, IN 46218, United States",
+        "website": "https://www.exxon.com/en/find-station/mobil-indianapolis-in-38thstmart-200324592?utm_medium=referral&utm_source=yxt-google&utm_campaign=us_fue_ret_xom_yxt",
+        "phone": "\n+1 888-739-2730",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Binford Shell",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n5020 E 62nd St, Indianapolis, IN 46220, United States",
+        "website": "https://find.shell.com/us/fuel/12691104-5020-e-62nd-st/en_US",
+        "phone": "\n+1 317-257-0510",
+        "about": {
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has full service gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Mobil",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4601 Shadeland Ave, Indianapolis, IN 46226, United States",
+        "website": "https://www.exxon.com/en/find-station/mobil-indianapolis-in-shadelandmobil-200318935?utm_medium=referral&utm_source=yxt-google&utm_campaign=us_fue_ret_xom_yxt",
+        "phone": "\n+1 317-377-1788",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "BP Gas Station",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4949 E, 4949 Thompson Rd, Indianapolis, IN 46237, United States",
+        "website": "https://www.bp.com/",
+        "phone": "N/A",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Pinnacle Oil Inc",
+        "rating": "3.3",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n8256 Zionsville Rd, Indianapolis, IN 46268, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-228-9342",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Has propane exchange"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards"
+            ]
+        }
+    },
+    {
+        "name": "bp",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n6011 Southeastern Ave, Indianapolis, IN 46203, United States",
+        "website": "https://map.bp.com/en-US/US/gas-station/indianapolis/bp/26634631850114620300100000000000",
+        "phone": "\n+1 317-746-6678",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "A&M Oil LLC",
+        "rating": "N/A",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3801 Lafayette Rd, Indianapolis, IN 46254, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-291-9200",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards"
+            ]
+        }
+    },
+    {
+        "name": "Meijer Express Gas Station",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n11349 E Washington St, Indianapolis, IN 46229, United States",
+        "website": "https://www.meijer.com/shopping/store-locator/131.html?cmpid=LM:Web::::05112021::GoogleGasStation",
+        "phone": "\n+1 317-894-6729",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Marathon Gas",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n440 Alabama St, Indianapolis, IN 46204, United States",
+        "website": "https://www.marathonbrand.com/Stations/Station_Locator/",
+        "phone": "\n+1 317-875-1709",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has air pump",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Kroger Fuel Center",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n5173 W Washington St, Indianapolis, IN 46241, United States",
+        "website": "https://www.kroger.com/d/fuel-points-program?cid=loc_02100066F_gmb",
+        "phone": "\n+1 317-248-8737",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly",
+                "Transgender safespace"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "2.6",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n8310 Rockville Rd, Indianapolis, IN 46234, United States",
+        "website": "https://find.shell.com/us/fuel/12496014-8310-rockville-rd/en_US",
+        "phone": "\n+1 317-273-0151",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "7-Eleven",
+        "rating": "3.1",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n6419 N College Ave, Indianapolis, IN 46220, United States",
+        "website": "https://www.7-eleven.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-259-1936",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Convenience Stores",
+        "rating": "4.3",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\njw Marriott, S West St, Indianapolis, IN 46225, United States",
+        "website": "N/A",
+        "phone": "N/A",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "3.3",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n7203 Michigan Rd, Indianapolis, IN 46268, United States",
+        "website": "https://find.shell.com/us/fuel/10009044-7203-michigan-rd/en_US",
+        "phone": "\n+1 317-291-2903",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has full service gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "bp",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3801 E 38th St, Indianapolis, IN 46218, United States",
+        "website": "https://map.bp.com/en-US/US/gas-station/indianapolis/bp/123988",
+        "phone": "\n+1 317-744-8080",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Sells ethanol-free gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Speedway",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n401 Kentucky Ave, Indianapolis, IN 46225, United States",
+        "website": "https://www.speedway.com/locations/in/indianapolis/401-kentucky-avenue-46780?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-630-4925",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Mobil",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n3207 Central Ave, Indianapolis, IN 46205, United States",
+        "website": "https://www.exxon.com/en/find-station/MOBIL-INDIANAPOLIS-IN-MOBILFOODMART-200322584?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "phone": "\n+1 317-974-9208",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Thorntons",
+        "rating": "3.8",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n10901 Pendleton Pike, Indianapolis, IN 46236, United States",
+        "website": "https://www.thorntonsinc.com/",
+        "phone": "\n+1 317-826-0832",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Sells prepared foods"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Speedway",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n1590 N Post Rd, Indianapolis, IN 46219, United States",
+        "website": "https://www.speedway.com/locations/in/indianapolis/1590-north-post-road-43665?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-897-2494",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Marathon",
+        "rating": "3.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n1224 S Harding St, Indianapolis, IN 46221, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-488-5567",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Murphy USA",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4630 S Emerson Ave, Indianapolis, IN 46203, United States",
+        "website": "http://www.murphyusa.com/",
+        "phone": "\n+1 317-780-7045",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible restroom",
+                " Does not have assistive hearing loop"
+            ],
+            "From the business": [
+                "Identifies as Black-owned",
+                "Identifies as veteran-owned",
+                "Identifies as women-owned"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Sells ethanol-free gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.5",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n6402 W 10th St, Indianapolis, IN 46214, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/6402-w-10th-st/4702294?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-486-8050",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "3.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n5659 N Michigan Rd, Indianapolis, IN 46228, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/5659-n-michigan-rd/4702406?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-257-5582",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ]
+        }
+    },
+    {
+        "name": "Meijer Express Gas Station",
+        "rating": "3.4",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n8225 E 96th St, Indianapolis, IN 46256, United States",
+        "website": "https://www.meijer.com/shopping/store-locator/154.html?cmpid=LM:Web::::05112021::GoogleGasStation",
+        "phone": "\n+1 317-585-2429",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Sunoco",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2070 N Arlington Ave, Indianapolis, IN 46218, United States",
+        "website": "https://www.sunoco.com/locations/store/2070-n-arlington-ave-indianapolis-in-8002795001",
+        "phone": "\n+1 317-357-9660",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Family Express",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n7073 W Washington St, Indianapolis, IN 46241, United States",
+        "website": "http://www.familyexpress.com/",
+        "phone": "\n+1 317-247-5010",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "From the business": [
+                "Identifies as veteran-owned"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom",
+                "Has Wi-Fi",
+                "Free Wi-Fi"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.8",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n9611 Allisonville Rd, Indianapolis, IN 46250, United States",
+        "website": "https://www.circlek.com/store-locator/US/fishers/9611-allisonville-rd/4702304?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-577-9451",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "bp",
+        "rating": "4.2",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n1005 Shadeland Ave, Indianapolis, IN 46219, United States",
+        "website": "https://map.bp.com/en-US/US/gas-station/indianapolis/bp/124540",
+        "phone": "\n+1 317-357-3833",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.8",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n3801 S Post Rd, Indianapolis, IN 46239, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/3801-s-post-rd/4702297?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-862-7704",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Murphy USA",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n10725 Pendleton Pike, Oaklandon, IN 46236, United States",
+        "website": "http://www.murphyusa.com/",
+        "phone": "\n+1 317-823-3513",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                " Does not have assistive hearing loop"
+            ],
+            "From the business": [
+                "Identifies as Black-owned",
+                "Identifies as veteran-owned",
+                "Identifies as women-owned"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Sells ethanol-free gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Thorntons",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n4015 E 82nd St, Indianapolis, IN 46250, United States",
+        "website": "https://www.thorntonsinc.com/",
+        "phone": "\n+1 317-578-3637",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Sells prepared foods"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Fountain Square Express",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n1440 Prospect St, Indianapolis, IN 46203, United States",
+        "website": "N/A",
+        "phone": "N/A",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Sunoco",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n5208 W 10th St, Indianapolis, IN 46224, United States",
+        "website": "https://www.sunoco.com/locations/store/5208-w-10th-st-indianapolis-in-0002873800",
+        "phone": "\n+1 317-243-9790",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Sells ethanol-free gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Conoco",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n1008 N Emerson Ave, Indianapolis, IN 46219, United States",
+        "website": "https://www.conoco.com/station/con-starlight-petroleum-llc-0000887551/?utm_source=G&utm_medium=local&utm_campaign=google-local&utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-426-2732",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "RaceTrac",
+        "rating": "3.3",
+        "total_reviews": "4.0",
+        "category": "Truck stop",
+        "address": "\n3801 W Morris St, Indianapolis, IN 46241, United States",
+        "website": "https://www.racetrac.com/locations/indiana/indianapolis/morris-~-holt?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "phone": "\n+1 219-200-0118",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Offerings": [
+                "Serves food"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.7",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n9599 N Meridian St, Indianapolis, IN 46260, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/9599-n-meridian-st/4702279?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-846-4886",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Sunoco",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n11430 E Washington St, Indianapolis, IN 46229, United States",
+        "website": "https://www.sunoco.com/",
+        "phone": "\n+1 317-894-3500",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Sinclair Gas Station",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4201 N Franklin Rd, Indianapolis, IN 46226, United States",
+        "website": "https://www.sinclairoil.com/?utm_source=google&utm_medium=yext",
+        "phone": "\n+1 317-890-1446",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Sinclair Gas Station",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4201 N Franklin Rd, Indianapolis, IN 46226, United States",
+        "website": "https://www.sinclairoil.com/?utm_source=google&utm_medium=yext",
+        "phone": "\n+1 317-890-1446",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "bp",
+        "rating": "3.6",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n7068 N College Ave, Indianapolis, IN 46220, United States",
+        "website": "https://map.bp.com/en-US/US/gas-station/indianapolis/bp/121102",
+        "phone": "\n+1 317-205-9985",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Sells ethanol-free gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Exxon",
+        "rating": "4.0",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2013 W Michigan St, Indianapolis, IN 46222, United States",
+        "website": "https://www.exxon.com/en/find-station/exxon-indianapolis-in-michigangasway-200324071?utm_medium=referral&utm_source=yxt-google&utm_campaign=us_fue_ret_xom_yxt",
+        "phone": "\n+1 317-602-3380",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Meijer Express Gas Station",
+        "rating": "3.4",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n5303 E Southport Rd, Indianapolis, IN 46237, United States",
+        "website": "https://www.meijer.com/shopping/store-locator/134.html?cmpid=LM:Web::::05112021::GoogleGasStation",
+        "phone": "\n+1 317-859-2229",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "3.5",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n4624 Lafayette Rd, Indianapolis, IN 46254, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/4624-lafayette-rd/4702278?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-299-3404",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Thorntons",
+        "rating": "4.1",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n5310 W 10th St, Indianapolis, IN 46224, United States",
+        "website": "https://www.thorntonsinc.com/",
+        "phone": "\n+1 317-241-2982",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Sells prepared foods"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Meijer Express Gas Station",
+        "rating": "2.8",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n5347 W Pike Plaza Rd, Indianapolis, IN 46254, United States",
+        "website": "https://www.meijer.com/shopping/store-locator/129.html?cmpid=LM:Web::::05112021::GoogleGasStation",
+        "phone": "\n+1 317-387-2429",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "7-Eleven",
+        "rating": "3.9",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n6005 Brookville Rd, Indianapolis, IN 46219, United States",
+        "website": "https://www.7-eleven.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-351-0174",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "From the business": [
+                "Is a small business"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Thorntons",
+        "rating": "3.6",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n6880 W Washington St, Indianapolis, IN 46241, United States",
+        "website": "https://www.thorntonsinc.com/",
+        "phone": "\n+1 317-227-0675",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Has in-store shopping",
+                "No delivery"
+            ],
+            "Offerings": [
+                "Sells prepared foods"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Crowd": [
+                "LGBTQ+ friendly"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Marathon Gas - Kentucky Food Mart",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n4751 S, 4751 Kentucky Ave, Indianapolis, IN 46221, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-830-8522",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Express Mart",
+        "rating": "5.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n2070 N Arlington Ave, Indianapolis, IN 46218, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-357-9660",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n2104 N Capitol Ave, Indianapolis, IN 46202, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/2104-n-capitol-ave/4702291?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-920-9917",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Speedway",
+        "rating": "3.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n5935 E Thompson Rd, Indianapolis, IN 46237, United States",
+        "website": "https://www.speedway.com/locations/in/indianapolis/5935-e-thompson-rd-43892?utm_source=G&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-791-1983",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Brown's Oil Service",
+        "rating": "4.6",
+        "total_reviews": "4.0",
+        "category": "Diesel fuel supplier",
+        "address": "\n4800 Van Cleave St, Indianapolis, IN 46226, United States",
+        "website": "http://www.brownsoilservice.com/",
+        "phone": "\n+1 317-547-5231",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible parking lot"
+            ]
+        }
+    },
+    {
+        "name": "Shell",
+        "rating": "2.2",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n2080 Shadeland Ave, Indianapolis, IN 46219, United States",
+        "website": "https://find.shell.com/us/fuel/12966874-2080-n-shadeland-ave/en_US",
+        "phone": "\n+1 317-353-0281",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.4",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n4841 N Pennsylvania St, Indianapolis, IN 46205, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/4841-n-pennsylvania-st/4702293?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-921-9952",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.8",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n6955 S Emerson Ave, Indianapolis, IN 46237, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/6955-s-emerson-ave/4702307?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-784-6094",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "GetGo Gas Station",
+        "rating": "4.4",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n8249 Rockville Rd, Indianapolis, IN 46214, United States",
+        "website": "https://www.getgocafe.com/?utm_source=google&utm_medium=organic&utm_campaign=gg_ll",
+        "phone": "\n+1 317-510-8779",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available"
+            ],
+            "Offerings": [
+                "Sells diesel gas",
+                "Sells ethanol-free gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has air pump",
+                "Has ATM",
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ],
+            "Parking": [
+                "Free parking lot"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.3",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n4054 E Southport Rd, Indianapolis, IN 46237, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/4054-e-southport-rd/4700023?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-782-4389",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ],
+            "Parking": [
+                "Free parking lot",
+                "Free street parking"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.9",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n8701 Col. H. Weir Cook Memorial Dr, Indianapolis, IN 46241, United States",
+        "website": "https://www.circlek.com/",
+        "phone": "\n+1 317-672-7550",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Costco Gas Station",
+        "rating": "4.7",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n6110 E 86th St, Indianapolis, IN 46250, United States",
+        "website": "https://www.costco.com/warehouse-locations/castleton-indianapolis-in-346.html",
+        "phone": "\n+1 317-558-1453",
+        "about": {
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "No restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "3.0",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n4221 S Emerson Ave, Indianapolis, IN 46203, United States",
+        "website": "https://www.circlek.com/store-locator/US/beech-grove/4221-s-emerson-ave/4702301?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-780-8812",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ]
+        }
+    },
+    {
+        "name": "Marathon Gas",
+        "rating": "3.5",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n980 Shadeland Ave, Indianapolis, IN 46219, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-352-8725",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ]
+        }
+    },
+    {
+        "name": "RaceTrac #2642",
+        "rating": "4.2",
+        "total_reviews": "4.0",
+        "category": "General store",
+        "address": "\n3801 W Morris St, Indianapolis, IN 46241, United States",
+        "website": "https://www.racetrac.com/locations/indiana/indianapolis/morris-~-holt",
+        "phone": "N/A",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ]
+        }
+    },
+    {
+        "name": "Village Pantry",
+        "rating": "3.6",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n2001 Broad Ripple Ave, Indianapolis, IN 46220, United States",
+        "website": "N/A",
+        "phone": "\n+1 317-257-6800",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot"
+            ],
+            "Service options": [
+                "Offers delivery"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT",
+                "Credit cards"
+            ]
+        }
+    },
+    {
+        "name": "Meijer Express Gas Station",
+        "rating": "4.2",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n6931 W Broadway, McCordsville, IN 46055, United States",
+        "website": "https://www.meijer.com/shopping/store-locator/296.html?cmpid=LM:Web::::05112021::GoogleGasStation",
+        "phone": "\n+1 317-510-0300",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    },
+    {
+        "name": "Circle K",
+        "rating": "2.6",
+        "total_reviews": "4.0",
+        "category": "Convenience store",
+        "address": "\n2485 N Post Rd, Indianapolis, IN 46219, United States",
+        "website": "https://www.circlek.com/store-locator/US/indianapolis/2485-n-post-rd/4702403?utm_source=google&utm_medium=local&utm_campaign=google-local",
+        "phone": "\n+1 317-897-1008",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible entrance",
+                "Has wheelchair accessible parking lot",
+                "Has wheelchair accessible restroom"
+            ],
+            "Service options": [
+                "Onsite services available",
+                "No delivery"
+            ],
+            "Amenities": [
+                "Has restroom"
+            ],
+            "Planning": [
+                "Good for quick visit"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments",
+                "Accepts SNAP/EBT"
+            ]
+        }
+    },
+    {
+        "name": "Good Oil Company Amoco",
+        "rating": "1.6",
+        "total_reviews": "4.0",
+        "category": "Gas station",
+        "address": "\n7550 IN-32, Westfield, IN 46074, United States",
+        "website": "https://goodoilcompany.com/",
+        "phone": "N/A",
+        "about": {
+            "Accessibility": [
+                "Has wheelchair accessible restroom"
+            ],
+            "Offerings": [
+                "Has car wash",
+                "Sells diesel gas",
+                "Has propane exchange"
+            ],
+            "Amenities": [
+                "Has convenience store",
+                "Has restroom"
+            ],
+            "Payments": [
+                "Accepts credit cards",
+                "Accepts debit cards",
+                "Accepts NFC mobile payments"
+            ]
+        }
+    }
+]
