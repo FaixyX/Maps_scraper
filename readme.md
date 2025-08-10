@@ -2,6 +2,9 @@
 
 A Python-based web scraping tool that extracts comprehensive business information from Google Maps search results using Selenium WebDriver. This tool is designed for market research, lead generation, and business intelligence gathering.
 
+# Demo Video
+https://www.loom.com/share/3f311684e8474f85a0b7e449ec8cc4c6?sid=a7a4aa29-c452-4311-ae8a-9c3ab4ae083e
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
